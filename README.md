@@ -27,7 +27,7 @@ He is a machine learning engineer of [Spacewalk Inc.](https://www.spacewalk.tech
 
 ## :computer: Work Experiences
 
-- Machine Learning Engineer, Spacewalk Inc., Seoul, Korea, Aug. 2021 - Present
+- Machine Learning Engineer, Spacewalk Inc., Seoul, Korea, Aug. 2021 - Present (alternative military duty)
 - Deep Learning Researcher Intern, DeepBio Inc., Seoul, Korea, Jun. 2019 - Aug. 2019
 
 ## 📫 Contact
@@ -35,7 +35,8 @@ He is a machine learning engineer of [Spacewalk Inc.](https://www.spacewalk.tech
 - Curriculum Vitae: https://www.notion.so/Curriculum-Vitae-20e517a32e66475497301f259a463003
 - Email: ciy405x@gmail.com
 - Github: https://github.com/Mephisto405
-- Blog: https://young-inspiration-retrospection.blogspot.com/
+- Study Log: https://www.notion.so/iycho/Study-Logs-83e03dabbf734a989d180610b20f20fd
+- Study Log v0.0 (outdated): https://young-inspiration-retrospection.blogspot.com/
 
 <!--
 **Mephisto405/Mephisto405** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
