@@ -4,7 +4,7 @@
 
 - Email: ciy405x@gmail.com
 - Linkedin: https://www.linkedin.com/in/in-young-cho-515ab2143
-- Study Log: https://www.notion.so/iycho/Study-Logs-83e03dabbf734a989d180610b20f20fd
+- Study Log: https://iycho.notion.site/Study-Logs-83e03dabbf734a989d180610b20f20fd
 - Study Log v0.0 (outdated): https://young-inspiration-retrospection.blogspot.com/
 
 <!--
