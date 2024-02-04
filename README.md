@@ -27,4 +27,4 @@ With a solid foundation in computer science and mathematical science, my work fo
 - **Old Study Log:** [Blog](https://young-inspiration-retrospection.blogspot.com/)
 
 ![in-young to image](https://github.com/Mephisto405/Mephisto405/assets/25499931/aed005af-3685-4b6a-be11-5ca1b3c7942e)
-
+The image was created using ChatGPT-4 to illustrate a scene that matches the meaning of my name, which is benevolence (仁) and prosperity (榮).
