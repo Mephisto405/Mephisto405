@@ -1,6 +1,7 @@
 # In-Young Cho (조인영) 👋
 
-I'm a Deep Learning Researcher at KRAFTON Inc., passionate about leveraging AI for 3D modeling, rendering, and reconstruction. With a solid foundation in computer science and mathematical science, my work focuses on the intersection of AI and interactive media.
+I'm a Deep Learning Researcher at KRAFTON Inc., passionate about leveraging AI for 3D modeling, rendering, and reconstruction. 
+With a solid foundation in computer science and mathematical science, my work focuses on the intersection of AI and interactive media.
 
 ## 🛠 Expertise
 
@@ -24,3 +25,6 @@ I'm a Deep Learning Researcher at KRAFTON Inc., passionate about leveraging AI f
 - **Linkedin:** [In-Young Cho](https://www.linkedin.com/in/in-young-cho-515ab2143)
 - **Study Log:** [Notion](https://iycho.notion.site/Study-Logs-83e03dabbf734a989d180610b20f20fd)
 - **Old Study Log:** [Blog](https://young-inspiration-retrospection.blogspot.com/)
+
+![in-young to image](https://github.com/Mephisto405/Mephisto405/assets/25499931/aed005af-3685-4b6a-be11-5ca1b3c7942e)
+
