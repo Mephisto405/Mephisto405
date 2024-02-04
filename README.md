@@ -1,23 +1,26 @@
 # In-Young Cho (조인영) 👋
 
+I'm a Deep Learning Researcher at KRAFTON Inc., passionate about leveraging AI for 3D modeling, rendering, and reconstruction. With a solid foundation in computer science and mathematical science, my work focuses on the intersection of AI and interactive media.
+
+## 🛠 Expertise
+
+- **Neural Rendering & 3D Reconstruction:** Transforming 2D images and videos into 3D models.
+- **Deep Learning Applications:** Enhancing gaming and spatial planning through AI.
+- **Research & Development:** Published at SIGGRAPH 2021, exploring deep representation learning for Monte Carlo image reconstruction.
+
+## 🎓 Education
+
+- **M.S. in Computer Science**, KAIST (2019 - 2021). GPA: 4.25/4.30.
+- **B.S. in Computer Science & Mathematical Science**, KAIST (2015 - 2019). GPA: 4.00/4.30, Summa Cum Laude.
+
+## 💼 Career
+
+- **Deep Learning Researcher**, KRAFTON Inc. (2022 - Present).
+- **Machine Learning Engineer**, Spacewalk (2021 - 2022).
+
 ## 📫 Contact
 
-- Email: ciy405x@gmail.com
-- Linkedin: https://www.linkedin.com/in/in-young-cho-515ab2143
-- Study Log: https://iycho.notion.site/Study-Logs-83e03dabbf734a989d180610b20f20fd
-- Study Log v0.0 (outdated): https://young-inspiration-retrospection.blogspot.com/
-
-<!--
-**Mephisto405/Mephisto405** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Email:** ciy405x@gmail.com
+- **Linkedin:** [In-Young Cho](https://www.linkedin.com/in/in-young-cho-515ab2143)
+- **Study Log:** [Notion](https://iycho.notion.site/Study-Logs-83e03dabbf734a989d180610b20f20fd)
+- **Old Study Log:** [Blog](https://young-inspiration-retrospection.blogspot.com/)
