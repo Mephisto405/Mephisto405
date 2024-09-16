@@ -1,6 +1,6 @@
 # In-Young Cho (조인영) 👋
 
-Deep learning research engineer with over 3 years of experience, driven by a relentless focus on achieving goals, no matter the tools. My expertise spans both _deep learning for rendering_ and _rendering for deep learning_, and I’m committed to developing cutting-edge technology that quenches users’ thirst or delivers engaging experiences. Creating impactful products that blend innovation with practicality is at the core of my work.
+Deep learning research engineer with over 3 years of experience in computer graphics and geometry processing, applying cutting-edge deep learning techniques to solve real-world business problems. I thrive on delivering impactful products, having iteratively deployed and improved solutions based on user feedback in 3D asset generation and optimization. My expertise lies in seamlessly blending advanced technology with practical applications, driven not by the tools themselves but by the desire to create efficient, user-centered solutions that address core business needs.
 
 ## 💼 Experience
 
