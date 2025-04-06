@@ -17,7 +17,7 @@ Currently building 3D content generation systems using large diffusion and langu
     - [Reddit fan showcase](https://www.reddit.com/r/inZOI/comments/1jgxmwf/my_first_3d_scan/)  
 - Real-time text-to-building system using CLIP retrieval  
 - Fast PBR texture inpainting using diffusion + ControlNet  
-- [ACM TOG (proc. of SIGGRAPH) paper](https://arxiv.org/abs/2410.10149), [US patent](https://patents.google.com/patent/US12051146B2/en)
+- [ACM TOG (proc. of SIGGRAPH) paper](https://sgvr.kaist.ac.kr/wp-content/uploads/2021/05/main_low_res.pdf), [US patent](https://patents.google.com/patent/US12051146B2/en)
 
 ---
 
