@@ -1,49 +1,45 @@
 # In-Young Cho / 조인영
+ciy405x@gmail.com / (+82) 10-9504-8680 / Seoul, South Korea / [LinkedIn](https://linkedin.com/in/in-young-cho)  
 
-Machine Learning Engineer since 2021.  
-**Focus**: 3D Deep Learning, Generative Models, and Real-time Inference.
+Machine Learning Engineer with 4 years of experience since 2021.  
+**Focus**: 3D Deep Learning, Generative Models, Cross-Platform Systems, Performance Optimization.
 
-Currently building 3D content generation systems using large diffusion and language models.  
-**Main interest**: making ML models run faster, cheaper, and more useful in production (especially for graphics / game pipelines).
+Currently building production-ready 3D content generation pipelines based on diffusion and language models.  
+**Main interest**: making 3D ML models run faster, cheaper, and more useful for games, graphics, and visual applications.
 
 ---
 
-## Projects (Selection)  
-- Single-image-to-3D generation on RTX 2060 (<15s runtime)  
-  → Deployed in [_inZOI_](https://store.steampowered.com/app/2456740/inZOI/?l=koreana), used by players to generate 3D furniture and props from photos  
-  → Widely shared by users across platforms:
+## Selected Projects
+- **World’s first in-game 3D generation system** for consumer release  
+  → Deployed in [_inZOI_](https://store.steampowered.com/app/2456740/inZOI/?l=koreana), enabling players to generate 3D furniture, props, and accessories from a single photo within 15 seconds  
+  → Ported across architectures including Intel, ARM, and Apple Silicon  
+  → Became the most beloved AI feature, widely shared by users (over 1 million creations):
     - [YouTube fan showcase](https://www.youtube.com/watch?v=LFVVAXvTwQ4)  
-    - [inZOI Canvas fan showcase](https://canvas.playinzoi.com/ko-KR/profile/acc-uKSuyjx8n2TwGYljiVWvWw)  
-    - [Reddit fan showcase](https://www.reddit.com/r/inZOI/comments/1jgxmwf/my_first_3d_scan/)  
-- Real-time text-to-building system using CLIP retrieval  
-- Fast PBR texture inpainting using diffusion + ControlNet  
-- [ACM TOG (proc. of SIGGRAPH) paper](https://sgvr.kaist.ac.kr/wp-content/uploads/2021/05/main_low_res.pdf), [US patent](https://patents.google.com/patent/US12051146B2/en)
+    - [inZOI Canvas fan uploads]([https://canvas.playinzoi.com/ko-KR/profile/acc-uKSuyjx8n2TwGYljiVWvWw](https://canvas.playinzoi.com/ko-KR/category?Preset=ArchitectureNone&Room=3DObject&Filters=ArchitectureImageTo3D&TimePeriodFilter=All&Order=Recent))  
+    - [Reddit fan thread](https://www.reddit.com/r/inZOI/comments/1jgxmwf/my_first_3d_scan/)
+- Real-time text-to-building generation using small language models (SLM)
+- [ACM TOG (proc. of SIGGRAPH) paper](https://sgvr.kaist.ac.kr/wp-content/uploads/2021/05/main_low_res.pdf)
+- [Granted US patent](https://patents.google.com/patent/US12051146B2/en)
 
 ---
 
-## Tech Stack  
-- **Languages**: Python, C++, JavaScript  
-- **Frameworks**: PyTorch, TensorFlow, ONNX  
-- **Graphics**: CUDA, OpenGL, WebGL  
+## Tech Stack
+- **Languages**: Python, C++, JavaScript
+- **Frameworks**: PyTorch, TensorFlow, ONNX
+- **Graphics**: CUDA, OpenGL, WebGL
 - **Infra/Tools**: Unreal Engine, Blender
 
 ---
 
-## Background  
-- Working at **KRAFTON**, developing 3D generation features (e.g. in *inZOI*)  
-- Prev: ML engineer at **SPACEWALK**, focused on architecture optimization using RL  
-- MS in CS @ KAIST (Thesis on Monte Carlo rendering denoising)
-- BS in CS and Math @ KAIST (Summa cum laude)
-
----
-
-## Contact  
-- 📧 ciy405x@gmail.com  
-- 📍 Seoul, South Korea  
-- 🔗 [LinkedIn](https://linkedin.com/in/in-young-cho)
-
-<!-- ---
-
-## Docs  
-- [Resume (PDF)](./Resume_InyoungCho_MLEng_1Q25.pdf)  
-- For more details, see LinkedIn or the resume above. -->
+## Background
+- **Current**: ML Engineer at **KRAFTON** (the PUBG company), developing large-scale 3D generation pipelines for *inZOI*
+- **Previous**: ML Engineer at **SPACEWALK**, optimizing architectural design via reinforcement learning (RL)
+- **Education**:  
+  - MS in Computer Science, KAIST  
+    - Thesis on Monte Carlo rendering denoising  
+    - GPA 4.25 / 4.30  
+  - BS in Computer Science and Mathematics, KAIST  
+    - GPA 4.00 / 4.30  
+    - Double major  
+    - Dean's List (Top 3%) for 3 consecutive semesters
+  - Beloved cources: Computer Graphics, Operating Systems, Real/Complex/Numerical Analysis, Linear Algebra, Matrix Computation, 3D Machine Learning, and GPU Programming
