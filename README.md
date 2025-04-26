@@ -15,7 +15,7 @@ Currently building production-ready 3D content generation pipelines based on dif
   → Ported across architectures including Intel, ARM, and Apple Silicon  
   → Became the most beloved AI feature, widely shared by users (over 1 million creations):
     - [YouTube fan showcase](https://www.youtube.com/watch?v=LFVVAXvTwQ4)  
-    - [inZOI Canvas fan uploads]([https://canvas.playinzoi.com/ko-KR/profile/acc-uKSuyjx8n2TwGYljiVWvWw](https://canvas.playinzoi.com/ko-KR/category?Preset=ArchitectureNone&Room=3DObject&Filters=ArchitectureImageTo3D&TimePeriodFilter=All&Order=Recent))  
+    - [inZOI Canvas fan uploads](https://canvas.playinzoi.com/ko-KR/category?Preset=ArchitectureNone&Room=3DObject&Filters=ArchitectureImageTo3D&TimePeriodFilter=All&Order=Recent)  
     - [Reddit fan thread](https://www.reddit.com/r/inZOI/comments/1jgxmwf/my_first_3d_scan/)
 - Real-time text-to-building generation using small language models (SLM)
 - [ACM TOG (proc. of SIGGRAPH) paper](https://sgvr.kaist.ac.kr/wp-content/uploads/2021/05/main_low_res.pdf)
