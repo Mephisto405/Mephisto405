@@ -32,7 +32,7 @@ Currently building production-ready 3D content generation pipelines based on dif
 ---
 
 ## Background
-- **Current**: ML Engineer at **KRAFTON** (the PUBG company), developing large-scale 3D generation pipelines for *inZOI*
+- **Current**: ML Engineer at **KRAFTON** (the PUBG company), deploying AI-driven content creation pipelines
 - **Previous**: ML Engineer at **SPACEWALK**, optimizing architectural design via reinforcement learning (RL)
 - **Education**:  
   - MS in Computer Science, KAIST  
