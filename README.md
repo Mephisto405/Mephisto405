@@ -42,4 +42,4 @@ Currently building production-ready 3D content generation pipelines based on dif
     - GPA 4.00 / 4.30  
     - Double major  
     - Dean's List (Top 3%) for 3 consecutive semesters
-  - Beloved cources: Computer Graphics, Operating Systems, Real/Complex/Numerical Analysis, Linear Algebra, Matrix Computation, 3D Machine Learning, and GPU Programming
+  - Most enjoyably immersed courses: Computer Graphics, Operating Systems, Real/Complex/Numerical Analysis, Linear Algebra, Matrix Computation, 3D Machine Learning, and GPU Programming
